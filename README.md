@@ -246,4 +246,4 @@ This repository serves as the official landing page for iRacing. The software is
 **Get the most recent version of iRacing today!**
 
 ---
-**Last updated:** 2026-09-20 22:56:35 UTC
+**Last updated:** 2026-09-21 00:53:11 UTC
